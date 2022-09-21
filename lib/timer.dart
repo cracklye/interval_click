@@ -223,24 +223,6 @@ class _TimerWidgetState extends State<TimerWidget> {
             ],
           ),
         ),
-        // Row(
-        //   children: [
-        //     const Text('Tick every x seconds: '),
-        //     ElevatedButton(
-        //       onPressed: () {
-        //         intervalDecrease();
-        //       },
-        //       child: const Text("-"),
-        //     ),
-        //     Text("$_interval"),
-        //     ElevatedButton(
-        //       onPressed: () {
-        //         intervalIncrease();
-        //       },
-        //       child: const Text("+"),
-        //     ),
-        //   ],
-        // ),
 
          ListTile(
           title: const Text('Max no of Ticks:'),
