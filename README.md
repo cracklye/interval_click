@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# TODO 
+- FPS to see the length of time
+- Speak the time of the timelapse rather than just the countdown (i.e. 5 seconds, 6 seconds)
